@@ -1,0 +1,1 @@
+import{_ as s,c,o,g as e}from"./index-D5yEu246.js";const a={},t={class:"page-placeholder"},n=e("section",{class:"page-placeholder__banner"},[e("div",{class:"bf-container"},[e("p",{class:"page-placeholder__breadcrumb"},"Home › About Us"),e("h1",null,"About Us")])],-1),r=[n];function _(l,d){return o(),c("div",t,r)}const p=s(a,[["render",_]]);export{p as default};
